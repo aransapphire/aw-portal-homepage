@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Request - task predicate">28843177d9901210c06d835e8ecb6101</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-04 11:01:22</sys_created_on>
+        <sys_id>a484fd376f90121006d4b951d531e7c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="AW Homepage" source="x_702723_aw_home_0">6060757b83501210cea15cc0deaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AW Homepage">6060757b83501210cea15cc0deaad34f</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_a484fd376f90121006d4b951d531e7c6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:01:22</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

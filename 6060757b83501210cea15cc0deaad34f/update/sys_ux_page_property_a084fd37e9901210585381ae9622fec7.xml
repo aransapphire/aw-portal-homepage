@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="AW Homepage">e374fd3783901210cea15cc0deaad33d</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">558471775690121071bd8702e92d5b05</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-04 11:01:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a084fd37e9901210585381ae9622fec7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="AW Homepage" source="x_702723_aw_home_0">6060757b83501210cea15cc0deaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AW Homepage">6060757b83501210cea15cc0deaad34f</sys_scope>
+        <sys_update_name>sys_ux_page_property_a084fd37e9901210585381ae9622fec7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:01:31</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_702723_aw_home_0.e374fd3783901210cea15cc0deaad33d.route.chrome_header.558471775690121071bd8702e92d5b05</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=a084fd37e9901210585381ae9622fec7"/>
+</record_update>

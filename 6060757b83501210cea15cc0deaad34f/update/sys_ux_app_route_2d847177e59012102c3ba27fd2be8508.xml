@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">e774fd3783901210cea15cc0deaad33d</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Article page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>article</route_type>
+        <screen_type display_value="Article page">a584717788901210530bd7b666b71e08</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-04 11:01:34</sys_created_on>
+        <sys_id>2d847177e59012102c3ba27fd2be8508</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Article page</sys_name>
+        <sys_package display_value="AW Homepage" source="x_702723_aw_home_0">6060757b83501210cea15cc0deaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AW Homepage">6060757b83501210cea15cc0deaad34f</sys_scope>
+        <sys_update_name>sys_ux_app_route_2d847177e59012102c3ba27fd2be8508</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:01:34</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=2d847177e59012102c3ba27fd2be8508"/>
+</record_update>
